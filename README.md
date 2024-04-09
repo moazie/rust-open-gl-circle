@@ -6,6 +6,8 @@ In this repository I have created a simple program that launches a new Window th
 
 All my code has been annotated to show every step of the way. Code was written in VS Code.
 
+RAYLIB BRANCH IS BETTER
+
 link to crates, open gl and sdl2;
 
 SDL2:
